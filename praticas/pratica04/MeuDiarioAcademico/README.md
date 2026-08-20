@@ -65,4 +65,6 @@ npx expo install react-native-safe-area-context
 
 | Tela Inicial / Adição | Filtro de Obrigatórias |
 | :---: | :---: |
-| ![Tela Inicial](./assets/tela2.png) | ![Filtro Ativo](./assets/tela1.png) |
+| ![Tela Inicial]<img width="1080" height="2312" alt="image" src="https://github.com/user-attachments/assets/fffb53e3-8de6-44e8-861f-666fe9e66b78" />
+ | ![Filtro Ativo]<img width="1080" height="2321" alt="image" src="https://github.com/user-attachments/assets/a36a633d-b34a-49fe-9f24-ccdb4a2e6256" />
+ |
