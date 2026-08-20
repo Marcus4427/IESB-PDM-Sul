@@ -21,9 +21,9 @@ npx expo install react-native-safe-area-context
 3. ESTRUTURA DO PROJETO
 --------------------------------------------------------------------------------
 /MeuDiarioAcademico
-├── App.js         (Componente principal com lógica e StyleSheet)
-├── labels.js      (Arquivo de centralização dos rótulos/textos)
-└── README.txt     (Documentação do projeto)
+├── App.js                  (Componente principal com lógica e StyleSheet)
+├── labels.js               (Arquivo de centralização dos rótulos/textos)
+└── README.md               (Documentação do projeto)
 
 
 4. CONCEITOS DE UI E LAYOUT APLICADOS
