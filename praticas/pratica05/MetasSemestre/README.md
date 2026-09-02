@@ -74,13 +74,10 @@ indesejadas:
 
 7. Screenshots
 
-![Tela 1](<img width="1080" height="2315" alt="tela1" src="https://github.com/user-attachments/assets/92aac353-6296-405b-9a04-b4a11b5571c0" />
-)
+![Tela 1](https://github.com/user-attachments/assets/92aac353-6296-405b-9a04-b4a11b5571c0)
 
 
-![Tela 2](<img width="1080" height="2310" alt="tela2" src="https://github.com/user-attachments/assets/93f8200b-3523-492d-a055-bba4eadac2ff" />
-)
+![Tela 2](https://github.com/user-attachments/assets/93f8200b-3523-492d-a055-bba4eadac2ff)
 
 
-![Tela 3](<img width="1080" height="2303" alt="tela3" src="https://github.com/user-attachments/assets/ac2494b7-0b03-4568-94ba-790be4819b80" />
-)
+![Tela 3](https://github.com/user-attachments/assets/ac2494b7-0b03-4568-94ba-790be4819b80)
