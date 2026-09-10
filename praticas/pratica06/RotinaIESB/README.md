@@ -18,6 +18,10 @@ Para rodar a aplicação com limpeza de cache:
 
 
 2. SCREENSHOTS DA APLICAÇÃO
+<img width="1080" height="2298" alt="image" src="https://github.com/user-attachments/assets/f31a70a8-c24a-40d0-ac43-662d134e5760" />
+<img width="1080" height="2289" alt="image" src="https://github.com/user-attachments/assets/9ec1ef19-41d4-49c9-9755-3a29cbc98834" />
+<img width="1080" height="2284" alt="image" src="https://github.com/user-attachments/assets/bcabcdde-33d7-4bc5-a71e-0a6779077c2e" />
+
 
 
 
