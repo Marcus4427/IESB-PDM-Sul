@@ -12,18 +12,18 @@ export default function GerenciarDespesa() {
   const [showDatePicker, setShowDatePicker] = useState(false);
 
   const handleSalvar = () => {
-    // Validação de preenchimento obrigatório[cite: 57]
+    
     if (!descricao.trim() || !valor.trim() || !categoria) {
       Alert.alert('Erro', 'Por favor, preencha todos os campos e selecione uma categoria.');
       return;
     }
 
     Alert.alert('Sucesso', 'Despesa salva com sucesso!');
-    // Aqui iria a lógica para salvar no Context ou AsyncStorage
+    
   };
 
   const handleValorChange = (texto) => {
-    // Tratamento de valor com Regex para permitir até 2 casas decimais[cite: 57]
+    
     const regex = /^\d*\.?\d{0,2}$/; 
     if (regex.test(texto)) {
       setValor(texto);

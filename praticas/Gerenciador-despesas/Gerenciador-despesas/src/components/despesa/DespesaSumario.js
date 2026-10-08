@@ -2,10 +2,10 @@ import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
 export default function DespesaSumario({ despesas, periodo }) {
-  // Cálculo do total utilizando .reduce()
+
   const somaDespesas = despesas.reduce((acumulador, item) => acumulador + item.valor, 0); 
   
-  // Desafio Bônus: altera cor se ultrapassar R$ 200,00
+  
   const isAcimaDoLimite = somaDespesas > 200; 
 
   return (

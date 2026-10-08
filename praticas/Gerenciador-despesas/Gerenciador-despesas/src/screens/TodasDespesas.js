@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { View, StyleSheet, Pressable, Text } from 'react-native';
 import DespesaSaida from '../components/despesa/DespesaSaida';
 
-// Dados simulados com categorias[cite: 57]
+
 const DUMMY_DESPESAS = [
   { id: 'e1', descricao: 'Tênis', valor: 250.00, data: '10/08/2026', categoria: 'Lazer' },
   { id: 'e2', descricao: 'Supermercado', valor: 150.50, data: '12/08/2026', categoria: 'Alimentação' },
@@ -14,7 +14,7 @@ const CATEGORIAS = ['Todas', 'Alimentação', 'Transporte', 'Lazer', 'Contas'];
 export default function TodasDespesas() {
   const [filtroAtivo, setFiltroAtivo] = useState('Todas');
 
-  // Filtra as despesas usando .filter() conforme seleção[cite: 57]
+  
   const despesasFiltradas = DUMMY_DESPESAS.filter(despesa => {
     if (filtroAtivo === 'Todas') return true;
     return despesa.categoria === filtroAtivo;

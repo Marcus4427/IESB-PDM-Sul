@@ -9,7 +9,7 @@ import DespesasRecentes from './src/screens/DespesasRecentes';
 import TodasDespesas from './src/screens/TodasDespesas';
 import GerenciarDespesa from './src/screens/GerenciarDespesa';
 
-// Importação do Botão (Mova o IconButton.js da prática anterior para src/components/)
+
 import IconButton from './src/components/IconButton';
 
 const Tab = createBottomTabNavigator();
@@ -27,7 +27,7 @@ function BottomTabScreen() {
             onPress={() => navigation.navigate('GerenciarDespesa')}
           />
         ),
-        tabBarActiveTintColor: '#5B3C88', // Cor temática baseada nos estilos do DespesaSumario
+        tabBarActiveTintColor: '#5B3C88', 
       })}
     >
       <Tab.Screen 
